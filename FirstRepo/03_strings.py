@@ -1,7 +1,9 @@
 # strings
 fruit_basket=("mango,banana,")
 print(fruit_basket)
+
 fruit_basket=9
+# to check the type of variable
 print(type(fruit_basket))
 
 x=12
